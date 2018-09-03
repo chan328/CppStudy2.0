@@ -74,5 +74,11 @@
     <ClCompile Include="잘못된 입력.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="계산기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="토큰.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

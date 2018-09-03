@@ -1,2 +1,4 @@
-﻿  벡터.cpp
+﻿  계산기.cpp
+c:\users\chan328\source\repos\consoleapplication2\consoleapplication2\계산기.cpp(14): warning C4101: 'res' :참조되지 않은 지역 변수입니다.
+c:\users\chan328\source\repos\consoleapplication2\consoleapplication2\계산기.cpp(13): warning C4101: 'op' :참조되지 않은 지역 변수입니다.
   ConsoleApplication2.vcxproj -> C:\Users\chan328\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
