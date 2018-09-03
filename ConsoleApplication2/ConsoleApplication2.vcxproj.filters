@@ -65,5 +65,14 @@
     <ClCompile Include="벡터.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="오류 보고.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구간오류.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="잘못된 입력.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
