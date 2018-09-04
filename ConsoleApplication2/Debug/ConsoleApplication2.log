@@ -1,4 +1,4 @@
-﻿  계산기.cpp
-c:\users\chan328\source\repos\consoleapplication2\consoleapplication2\계산기.cpp(14): warning C4101: 'res' :참조되지 않은 지역 변수입니다.
-c:\users\chan328\source\repos\consoleapplication2\consoleapplication2\계산기.cpp(13): warning C4101: 'op' :참조되지 않은 지역 변수입니다.
-  ConsoleApplication2.vcxproj -> C:\Users\chan328\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
+﻿  pch.cpp
+  토큰.cpp
+  LINK : C:\Users\chan\Desktop\코드\CppStudy2.0\Debug\ConsoleApplication2.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  ConsoleApplication2.vcxproj -> C:\Users\chan\Desktop\코드\CppStudy2.0\Debug\ConsoleApplication2.exe

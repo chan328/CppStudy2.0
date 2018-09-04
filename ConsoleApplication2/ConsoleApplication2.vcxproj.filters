@@ -80,5 +80,17 @@
     <ClCompile Include="토큰.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="토큰사용.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="인자 선언과 반환 타입.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="값 반환.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="값에 의한 전달.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
